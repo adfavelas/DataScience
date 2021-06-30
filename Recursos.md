@@ -1,7 +1,7 @@
 # Recursos
 ## Artículos:
 
-##V ideos:
+## Videos:
 
 ## Podcasts:
 
