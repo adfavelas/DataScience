@@ -12,3 +12,14 @@
 * [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
 * [Simply Statistics](https://simplystatistics.org/)
 * [KDnuggets](https://www.kdnuggets.com/news/index.html)
+
+# Datasets
+* [AWS Open Data](https://registry.opendata.aws/)
+* [Data Hub](https://datahub.io/)
+* [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
+* [Microsoft Research Open Data](https://msropendata.com/)
+* [Open Data Sources](https://github.com/datasciencemasters/data)
+* [World Bank Open Data](https://data.worldbank.org/)
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
+* [Google Public Data](http://www.google.com/publicdata/directory)
+* [Public Big Data Sets](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
