@@ -23,3 +23,7 @@
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [Google Public Data](http://www.google.com/publicdata/directory)
 * [Public Big Data Sets](http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
+
+#APA
+* [Guía para citar y referenciar en estilo APA (2020)](https://www.slideshare.net/JonathanJimenez29/gua-para-citar-y-referenciar-en-estilo-apa-2020)
+* [Mini-guía para citar y referenciar en estilo APA7](https://www.slideshare.net/JonathanJimenez29/minigua-para-citar-y-referenciar-en-estilo-apa7)
